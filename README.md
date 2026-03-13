@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://dawnanao5708.github.io/.github/quicken">  
+<a href="https://klarasadbury.github.io/.github/quicken-finance-manager">  
 <img src="https://img.shields.io/badge/Get_Quicken-darkblue?style=for-the-badge&logo=apple" alt="Get Quicken">  
 </a>  
 </div>  
